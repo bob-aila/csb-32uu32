@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.js": "https://bob-aila.github.io/csb-32uu32/static/js/main.5e2a8315.chunk.js",
+    "main.js.map": "https://bob-aila.github.io/csb-32uu32/static/js/main.5e2a8315.chunk.js.map",
+    "runtime-main.js": "https://bob-aila.github.io/csb-32uu32/static/js/runtime-main.c3f2129c.js",
+    "runtime-main.js.map": "https://bob-aila.github.io/csb-32uu32/static/js/runtime-main.c3f2129c.js.map",
+    "static/js/2.b537fc40.chunk.js": "https://bob-aila.github.io/csb-32uu32/static/js/2.b537fc40.chunk.js",
+    "static/js/2.b537fc40.chunk.js.map": "https://bob-aila.github.io/csb-32uu32/static/js/2.b537fc40.chunk.js.map",
+    "index.html": "https://bob-aila.github.io/csb-32uu32/index.html",
+    "static/js/2.b537fc40.chunk.js.LICENSE.txt": "https://bob-aila.github.io/csb-32uu32/static/js/2.b537fc40.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c3f2129c.js",
+    "static/js/2.b537fc40.chunk.js",
+    "static/js/main.5e2a8315.chunk.js"
+  ]
+}
